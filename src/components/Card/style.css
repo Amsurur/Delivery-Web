@@ -1,0 +1,8 @@
+.card {
+  border-radius: 16px;
+  background: var(--5, #fff);
+  box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.1);
+}
+.p2 {
+  color: var(--1, #1f2428);
+}
